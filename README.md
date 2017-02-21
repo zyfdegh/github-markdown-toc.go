@@ -1,3 +1,6 @@
+# This is a fork
+Original repo [ekalinin/github-markdown-toc.go](https://github.com/ekalinin/github-markdown-toc.go).
+
 github-markdown-toc
 ===================
 
